@@ -1,2 +1,2 @@
 # Plane_Wars-cocos
-coco开发的飞机大战游戏
+cocos开发的飞机大战游戏
