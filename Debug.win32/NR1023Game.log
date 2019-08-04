@@ -1,0 +1,15 @@
+﻿生成启动时间为 2019/2/26 13:45:13。
+     1>项目“C:\Python27\project\NR1023Game\proj.win32\NR1023Game.vcxproj”在节点 2 上(Build 个目标)。
+     1>Link:
+         NR1023Game.vcxproj -> C:\Python27\project\NR1023Game\proj.win32\Debug.win32\NR1023Game.exe
+       CustomBuildStep:
+         if not exist "C:\Python27\project\NR1023Game\proj.win32\Debug.win32\" mkdir "C:\Python27\project\NR1023Game\proj.win32\Debug.win32\"
+         xcopy "C:\Python27\project\NR1023Game\proj.win32\..\Resources" "C:\Python27\project\NR1023Game\proj.win32\Debug.win32\" /D /E /I /F /Y
+               
+         :VCEnd
+         复制了 0 个文件
+     1>已完成生成项目“C:\Python27\project\NR1023Game\proj.win32\NR1023Game.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.56
